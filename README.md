@@ -1,5 +1,3 @@
-<img width="901" height="1195" alt="image" src="https://github.com/user-attachments/assets/54cf3f48-2ce8-4b77-91bc-cb9180e4eeeb" />📘 CGPA Calculator (Console-Based)
-
 This is a simple Java console application to calculate and display a student’s CGPA and percentage based on marks entered for different subjects. It also stores the result in a text file for future reference.
 
 🚀 Features
